@@ -1,0 +1,50 @@
+body {
+    background-color: #303943;
+}
+
+.kodluyoruz {
+    margin-top: 0px;
+    width: 600px;
+}
+/* ff7b00 yazı rengi */
+h1 {
+    color: #ff7900;
+    font-family: 'Gideon Roman', cursive;
+    font-family: 'PT Serif', serif;
+}
+
+#name {
+    font-style: italic;
+}
+
+.card-bg {
+    background-color: indigo;
+}
+
+.roundedd {
+    border-radius: 20px;
+}
+
+.sayilar {
+    color: white;
+    font-size: 118px;
+    text-align: center;
+}
+
+.yazilar {
+    color:  white;
+    font-size: 55px;
+    text-align: center;
+}
+
+.footer-br{
+    border-top: solid #1f252b 1px;
+}
+
+.button {
+    border-radius:50%;
+    height: 20px;
+    text-align: center;
+    justify-content: center;
+
+}
